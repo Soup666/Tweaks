@@ -1,0 +1,2 @@
+@interface SBIconBadgeView : UIView
+@end
